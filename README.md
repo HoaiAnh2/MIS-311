@@ -38,8 +38,11 @@ The cost of living is very high relative to income in many regions, especially A
 
 The chart shows that Asia (70.3%) and North America (71%) have the highest cost of living to average income ratios, meaning that a large portion of income is eaten up by essential expenses. Meanwhile, South America (15.3%) and Africa (18.4%) have lower ratios, but this may be because average incomes are too low to reflect higher living standards.  
 
-- Insight 2: The Difference in Cost of Living Between Regions
+- Insight 2: The Difference in Cost of Living Between Regions  
 Places with developed economies often come with higher standards of living, which translates into significantly higher costs of living. Conversely, low-cost countries often reflect low consumer prices and different economic structures.
 
+<p align="center">
+  <img src="https://github.com/HoaiAnh2/MIS-311/blob/main/Screenshot%202025-05-17%20191936.png" alt="Ảnh bạn muốn" />
+</p>
 
 The chart compares total cost of living and total annual income across countries and regions. Mexico has the highest cost of living but low income. Canada and South Africa have lower costs of living, but higher incomes in Canada. Australia has both high cost of living and high incomes. Overall, there are significant financial differences between locations.
