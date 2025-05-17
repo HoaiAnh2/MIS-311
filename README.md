@@ -1,6 +1,6 @@
 # MIS-311
 ## Introduction to Business Analytics
-**Data Analysis and Insight*
+*Data Analysis and Insight*
 ### **Data Overview**  
 - Source of data: Government Agencies and Statistical Organizations; International organizations.  
 - Number of rows: 202 rows  
