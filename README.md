@@ -28,3 +28,15 @@ Region: 2 missing values ( E26, E39)
 
 
 The average monthly income (4264.53) is higher than the average living cost (3703.59), showing that the standard of life is positive. However, the large standard deviation in both indicators reflects the difference in income and costs among individuals or areas is quite high.
+
+- Insight 1: Cost of living is too high relative to income  
+The cost of living is very high relative to income in many regions, especially Asia and North America, indicating serious financial stress for people in these regions.  
+
+
+The chart shows that Asia (70.3%) and North America (71%) have the highest cost of living to average income ratios, meaning that a large portion of income is eaten up by essential expenses. Meanwhile, South America (15.3%) and Africa (18.4%) have lower ratios, but this may be because average incomes are too low to reflect higher living standards.  
+
+- Insight 2: The Difference in Cost of Living Between Regions
+Places with developed economies often come with higher standards of living, which translates into significantly higher costs of living. Conversely, low-cost countries often reflect low consumer prices and different economic structures.
+
+
+The chart compares total cost of living and total annual income across countries and regions. Mexico has the highest cost of living but low income. Canada and South Africa have lower costs of living, but higher incomes in Canada. Australia has both high cost of living and high incomes. Overall, there are significant financial differences between locations.
