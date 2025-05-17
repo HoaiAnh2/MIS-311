@@ -32,6 +32,9 @@ The average monthly income (4264.53) is higher than the average living cost (370
 - Insight 1: Cost of living is too high relative to income  
 The cost of living is very high relative to income in many regions, especially Asia and North America, indicating serious financial stress for people in these regions.  
 
+<p align="center">
+  <img src="https://github.com/HoaiAnh2/MIS-311/blob/main/Screenshot%202025-05-17%20191911.png" alt="Ảnh bạn muốn" />
+</p>
 
 The chart shows that Asia (70.3%) and North America (71%) have the highest cost of living to average income ratios, meaning that a large portion of income is eaten up by essential expenses. Meanwhile, South America (15.3%) and Africa (18.4%) have lower ratios, but this may be because average incomes are too low to reflect higher living standards.  
 
