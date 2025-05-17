@@ -11,11 +11,16 @@ The context: Cost of living data basically tells us how much it really costs to 
 * Missing values: 4 values  
 Average monthly income: 2 missing values ( C162, C178)  
 Region: 2 missing values ( E26, E39)  
-=> Handling missing values:  
-+  Average monthly income: should be deleted because only 2 lines are missing in 201 → does not greatly affect the overall.
-- Region: should be deleted because duplicates do not provide additional information and cause errors when calculating averages, totals, and statistical analysis. The four missing values ​​account for approximately 1.98% of the total 202 values.  
-+  After deletion, there are 198 rows and 5 columns left.  
+=> Handling missing values:
+ Average monthly income: should be deleted because only 2 lines are missing in 201 → does not greatly affect the overall.
+ Region: should be deleted because duplicates do not provide additional information and cause errors when calculating averages, totals, and statistical analysis. The four missing values ​​account for approximately 1.98% of the total 202 values.  
+ After deletion, there are 198 rows and 5 columns left.  
 * Duplicate rows: 2 rows  
 => Handling duplicate rows: delete the 2 duplicate rows because they do not carry additional information and do not affect the analysis. The two duplicate rows account for about 0.99% of the total 202 rows. Duplicate rows cause statistical bias, degrade machine learning model performance due to redundant data learning, and disrupt record uniqueness while consuming storage space. Therefore, removing them is necessary to ensure accurate and efficient analysis.  
 => After deletion, there are 196 rows and 5 columns left.  
 
+### **Descriptive Statistics**  
+
+![Thống kê Thu nhập và Chi phí sinh hoạt](images/Screenshot%202025-05-15%20221727.png)  
+
+The average monthly income (4264.53) is higher than the average living cost (3703.59), showing that the standard of life is positive. However, the large standard deviation in both indicators reflects the difference in income and costs among individuals or areas is quite high.
