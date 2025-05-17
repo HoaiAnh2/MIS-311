@@ -21,6 +21,7 @@ Region: 2 missing values ( E26, E39)
 
 ### **Descriptive Statistics**  
 
-Screenshot 2025-05-15 221727.png
+![Thống kê thu nhập và chi phí](https://raw.githubusercontent.com/HoaiAnh2/income-report/main/images/income_vs_cost.png)
+
 
 The average monthly income (4264.53) is higher than the average living cost (3703.59), showing that the standard of life is positive. However, the large standard deviation in both indicators reflects the difference in income and costs among individuals or areas is quite high.
